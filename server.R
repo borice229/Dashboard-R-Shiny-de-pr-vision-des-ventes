@@ -4,9 +4,9 @@
 #   KEZA Fleurine
 
 ############# LIBRARIES ###################
-rsconnect::setAccountInfo(name='df-borice'
-                          , token='1E68ACDE755FD657F02FBFE306186743',
-                          secret='jZimdXl9Z/Uqzn1VcvT5I6DVqyfxIIrKu6bSOQIL')
+rsconnect::setAccountInfo(name='#####'
+                          , token='#####',
+                          secret='#######')
 
 library(readxl) # importation des fichiers excel
 library(dplyr)#traitement des données
